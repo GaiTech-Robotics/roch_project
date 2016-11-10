@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <name>roch_simulator</name>
+  <version>0.0.1</version>
+  <description>Metapackage for SawYer roch simulation software</description>
+
+  <maintainer email="wzhang@softrobtech.com">Carl</maintainer>
+
+  <license>BSD</license>
+=
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>roch_gazebo</run_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+</package>
