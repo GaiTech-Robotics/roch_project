@@ -1,9 +1,9 @@
-s2_robot
+roch_robot
 ===========
 
-Robot ROS packages for the SawYer s2, for operating robot hardware.
+Robot ROS packages for the SawYer roch, for operating robot hardware.
 
- - s2_bringup : Bringup launch files and scripts.
- - s2_base : Hardware driver for communicating with the onboard MCU.
-
+ - roch_bringup : Bringup launch files and scripts.
+ - roch_base : Hardware driver for communicating with the onboard MCU.
+ - roch_ftdi : Udev rules files that how to identify /dev/roch.
 
