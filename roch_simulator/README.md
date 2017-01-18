@@ -1,6 +1,6 @@
-s2_simualtor
+Roch_simualtor
 ==============
 
-Simulator ROS packages for the SawYer s2.
+Simulator ROS packages for the SawYer Roch.
 
- - s2_gazebo : Gazebo plugin definitions and extensions to the robot URDF.
+ - Roch_gazebo : Gazebo plugin definitions and extensions to the robot URDF.

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>roch_viz</name>
-  <version>0.0.1</version>
+  <version>1.0.6</version>
   <description>Visualization configuration for SawYer roch</description>
 
   <author email="wzhang@softrobtech.com">Carl</author>
