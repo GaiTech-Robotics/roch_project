@@ -1,6 +1,21 @@
 # roch_project
 Roch robot of SuZhou SawYer robotics
 
+## Instructions
+This project have not use anymore, and divided into four repositories showing fowllow.
+
+### Roch
+Roch repository contains all apps for Roch, with [roch code](http://github.com/SawYer-Robotics/roch) and [wiki](http://wiki.ros.org/roch)
+
+### Roch_robot
+Roch_robot repository includes all drivers and communication with [Roch](http://wiki.ros.org/Robots/Roch), with [roch_robot code](http://github.com/SawYer-Robotics/roch_robot) and [wiki](http://wiki.ros.org/roch_robot)
+
+### Roch_simulator
+Roch_simulator repository provides simulator with Roch without real machine, which for now just support Gazebo, with [roch_simulator code](http://github.com/SawYer-Robotics/roch_simulator) and [wiki](http://wiki.ros.org/roch_simulator)
+
+### Roch_viz
+Roch_viz repository just provides visualization tools when using Roch, with [roch_viz code](http://github.com/SawYer-Robotics/roch_viz) and [wiki](http://wiki.ros.org/roch_viz)
+
 ## Installation Guide
 
 ## Preparation
